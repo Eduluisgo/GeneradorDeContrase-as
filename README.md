@@ -1,4 +1,4 @@
-# GeneradorDeContrase-as
+# GeneradorDeContraseñas
 
 # 🔐 Generador de Contraseñas Seguras - GUI con Tkinter
 
